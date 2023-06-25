@@ -1,4 +1,3 @@
-:set paste
 # Using Puppet to create a file in /tmp.
 
 file { '/tmp/school':
